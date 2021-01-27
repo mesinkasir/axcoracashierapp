@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# Axcora Cashier POS apps
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/axcoracashierapp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Free download and open source code pos
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Simple and easy to use for cashier transaction, with database you can create categories grouping product, product with price and cashier transaction.
 
-### Markdown
+Download installation and documentation :
+[https://www.hockeycomputindo.com/2021/01/axcora-cashier-apps-free-download.html](https://www.hockeycomputindo.com/2021/01/axcora-cashier-apps-free-download.html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![free cashier point of sale apps download source code full](https://a.fsdn.com/con/app/proj/cashierapp/screenshots/free%20download%20open%20source%20code%20pos%20point%20ofsale%20aplikasi%20kasir%20toko%20restoran%20gratis%20%283%29.png/max/max/1)
 
-```markdown
-Syntax highlighted code block
+Cashier transaction with group categories product.
 
-# Header 1
-## Header 2
-### Header 3
+![free cashier point of sale apps download source code full](https://a.fsdn.com/con/app/proj/cashierapp/screenshots/free%20download%20open%20source%20code%20pos%20point%20ofsale%20aplikasi%20kasir%20toko%20restoran%20gratis%20%282%29.png/max/max/1)
 
-- Bulleted
-- List
+Categories product databased
 
-1. Numbered
-2. List
+![free cashier point of sale apps download source code full](https://a.fsdn.com/con/app/proj/cashierapp/screenshots/free%20download%20open%20source%20code%20pos%20point%20ofsale%20aplikasi%20kasir%20toko%20restoran%20gratis%20%281%29.png/max/max/1)
 
-**Bold** and _Italic_ and `Code` text
+Product and price database
 
-[Link](url) and ![Image](src)
-```
+![free cashier point of sale apps download source code full](https://a.fsdn.com/con/app/proj/cashierapp/screenshots/Screenshot_2021-01-27%20Axcora%20Cashier%20POS%20Apps%281%29.png/max/max/1)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Login area
 
-### Jekyll Themes
+You can run this apps with offline terminal using xampp,wampp,lamp etc or clouds with your host , with online mode you can work with this apps from android iphone smartphone, make mobile for fast transaction.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/axcoracashierapp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Download now and run this apps, or read documentation :
+[https://www.hockeycomputindo.com/2021/01/axcora-cashier-apps-free-download.html](https://www.hockeycomputindo.com/2021/01/axcora-cashier-apps-free-download.html)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Need Demo : [play video](https://youtu.be/uC-tLKl6ges)
