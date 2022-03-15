@@ -31,7 +31,7 @@ header("location:index.php?page=home");
   				<div class="card-body text-center">
 				<img class="img-fluid" src="https://axcora.com/img/angular.png"/>
 				<h3>Axcora <span class="text-danger">Cashier</span> Apps</h3>
-				<p>Free & Open Source Code Project.</p>
+				<p>Free & Open Source Code Project.<br/><a href="https://github.com/mesinkasir/axcoracashierapp" class="btn btn-dark text-white">Download on Github</a></p>
 				<p><small>login info user: axcora / pass : axcorapos</small></p>
   					<form id="login-form" >
   						<div class="form-group">
