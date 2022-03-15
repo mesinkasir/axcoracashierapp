@@ -1,0 +1,1 @@
+<?php include 'db_connect.php' ?><?php include 'assets/vendor/bootstrap/welcome.php' ?>
