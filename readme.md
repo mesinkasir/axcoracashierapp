@@ -7,7 +7,12 @@ Simple and easy to use for cashier transaction, with database you can create cat
 Download installation and documentation :
 [https://www.hockeycomputindo.com/2021/01/axcora-cashier-apps-free-download.html](https://www.hockeycomputindo.com/2021/01/axcora-cashier-apps-free-download.html)
 
-Test drive demo [https://axcora.my.id/axcoracashier](https://axcora.my.id/axcoracashier)
+Test drive demo [https://axcora.my.id/axcoracashier/free](https://axcora.my.id/axcoracashier/free)
+
+
+Play Video Demo : [play video](https://www.youtube.com/watch?v=WvBGErdEzxA)
+
+-----------------------------------
 
 ![free cashier point of sale apps download source code full](https://1.bp.blogspot.com/-hiDdY27VP4g/YBGYNUZgqxI/AAAAAAAAJ84/XXA2lzzWU8EIs8k3a1_EoGj1UBg1JaPFACLcBGAsYHQ/s16000/free%2Bdownload%2Bopen%2Bsource%2Bcode%2Bpos%2Bpoint%2Bofsale%2Baplikasi%2Bkasir%2Btoko%2Brestoran%2Bgratis%2B%25283%2529.png)
 
@@ -31,9 +36,9 @@ You can run this apps with offline terminal using xampp,wampp,lamp etc or clouds
 Download now and run this apps, or read documentation :
 [https://www.hockeycomputindo.com/2021/01/axcora-cashier-apps-free-download.html](https://www.hockeycomputindo.com/2021/01/axcora-cashier-apps-free-download.html)
 
-Test drive demo [https://axcora.my.id/axcoracashier](https://axcora.my.id/axcoracashier)
+Test drive demo [https://axcora.my.id/axcoracashier/free](https://axcora.my.id/axcoracashier/free)
 
-Play Video Demo : [play video](https://youtu.be/uC-tLKl6ges)
+Play Video Demo : [play video](https://www.youtube.com/watch?v=WvBGErdEzxA)
 
 
 --------------------------------------------------------------------------------------------------------------------
