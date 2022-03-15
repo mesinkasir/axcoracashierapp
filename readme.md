@@ -10,7 +10,7 @@ Download installation and documentation :
 Test drive demo [https://axcora.my.id/axcoracashier/free](https://axcora.my.id/axcoracashier/free)
 
 
-Play Video Demo : [play video](https://www.youtube.com/watch?v=WvBGErdEzxA)
+Play Video Demo : [https://www.youtube.com/watch?v=WvBGErdEzxA](https://www.youtube.com/watch?v=WvBGErdEzxA)
 
 -----------------------------------
 
@@ -38,7 +38,8 @@ Download now and run this apps, or read documentation :
 
 Test drive demo [https://axcora.my.id/axcoracashier/free](https://axcora.my.id/axcoracashier/free)
 
-Play Video Demo : [play video](https://www.youtube.com/watch?v=WvBGErdEzxA)
+
+Play Video Demo : [https://www.youtube.com/watch?v=WvBGErdEzxA](https://www.youtube.com/watch?v=WvBGErdEzxA)
 
 
 --------------------------------------------------------------------------------------------------------------------
