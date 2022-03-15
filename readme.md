@@ -34,3 +34,13 @@ Download now and run this apps, or read documentation :
 Test drive demo [https://axcora.my.id/axcoracashier](https://axcora.my.id/axcoracashier)
 
 Play Video Demo : [play video](https://youtu.be/uC-tLKl6ges)
+
+---------------------------------
+
+Buy me a coffee ☕️ ❤️ ✌🏻
+with moneygram or western union
+
+BANK CENTRAL ASIA
+ACCOUNT NO : 0181884109
+ACCOUNT NAME : SUCI CHANIFAH
+IBAN/SWIFT CODE : CENAIDJA
