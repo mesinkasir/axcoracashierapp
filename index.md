@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+# Axcora Cashier POS apps
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/axcoracashierapp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Free download and open source code pos
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Simple and easy to use for cashier transaction, with database you can create categories grouping product, product with price and cashier transaction.
 
-### Markdown
+Download installation and documentation :
+[https://www.hockeycomputindo.com/2021/01/axcora-cashier-apps-free-download.html](https://www.hockeycomputindo.com/2021/01/axcora-cashier-apps-free-download.html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Test drive demo [https://axcora.my.id/axcoracashier](https://axcora.my.id/axcoracashier)
 
-```markdown
-Syntax highlighted code block
+![free cashier point of sale apps download source code full](https://1.bp.blogspot.com/-hiDdY27VP4g/YBGYNUZgqxI/AAAAAAAAJ84/XXA2lzzWU8EIs8k3a1_EoGj1UBg1JaPFACLcBGAsYHQ/s16000/free%2Bdownload%2Bopen%2Bsource%2Bcode%2Bpos%2Bpoint%2Bofsale%2Baplikasi%2Bkasir%2Btoko%2Brestoran%2Bgratis%2B%25283%2529.png)
 
-# Header 1
-## Header 2
-### Header 3
+Cashier transaction with group categories product.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+![free cashier point of sale apps download source code full](https://1.bp.blogspot.com/--WYb6fVfYeI/YBGYNRYS5jI/AAAAAAAAJ8w/ap_X0xUFsHkkFYCZcrLQfxIohUwOkdedACLcBGAsYHQ/s1366/free%2Bdownload%2Bopen%2Bsource%2Bcode%2Bpos%2Bpoint%2Bofsale%2Baplikasi%2Bkasir%2Btoko%2Brestoran%2Bgratis%2B%25281%2529.png)
 
-**Bold** and _Italic_ and `Code` text
+Categories product databased
 
-[Link](url) and ![Image](src)
-```
+![free cashier point of sale apps download source code full](https://1.bp.blogspot.com/-uh8dSf2WDVs/YBGYNaCcEvI/AAAAAAAAJ80/7pWDuCJNNZ0UKX8KQTrBwX-i6kcJbgrQwCLcBGAsYHQ/s16000/free%2Bdownload%2Bopen%2Bsource%2Bcode%2Bpos%2Bpoint%2Bofsale%2Baplikasi%2Bkasir%2Btoko%2Brestoran%2Bgratis%2B%25282%2529.png)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Product and price database
 
-### Jekyll Themes
+![free cashier point of sale apps download source code full](https://1.bp.blogspot.com/-qIG8mrs2r18/YBGaMVpSXvI/AAAAAAAAJ9M/1PZzEY66r0stbY7duKt0_CszE7v5bzj6wCLcBGAsYHQ/s16000/Screenshot_2021-01-27%2BAxcora%2BCashier%2BPOS%2BApps%25281%2529.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/axcoracashierapp/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Login area
 
-### Support or Contact
+You can run this apps with offline terminal using xampp,wampp,lamp etc or clouds with your host , with online mode you can work with this apps from android iphone smartphone, make mobile for fast transaction.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Download now and run this apps, or read documentation :
+[https://www.hockeycomputindo.com/2021/01/axcora-cashier-apps-free-download.html](https://www.hockeycomputindo.com/2021/01/axcora-cashier-apps-free-download.html)
+
+Test drive demo [https://axcora.my.id/axcoracashier](https://axcora.my.id/axcoracashier)
+
+Play Video Demo : [play video](https://youtu.be/uC-tLKl6ges)
+
+
+--------------------------------------------------------------------------------------------------------------------
+
+### Buy me a coffee ☕️ ❤️  ✌🏻 
+
+with moneygram or western union
+
++ BANK CENTRAL ASIA
++ ACCOUNT NO : 0181884109
++ ACCOUNT NAME : SUCI CHANIFAH
++ IBAN/SWIFT CODE : CENAIDJA
