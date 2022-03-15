@@ -34,7 +34,7 @@
 				<a href="https://www.hockeycomputindo.com/2021/01/axcora-cashier-apps-free-download.html" class="nav-link nav-takeorders"><span class='icon-field'><i class="fas fa-file-pdf"></i></span> Documentation</a>
 				</li>		
 				 <li class="nav-item">
-				<a href="https://youtu.be/uC-tLKl6ges" class="nav-link nav-takeorders"><span class='icon-field'><i class="fas fa-film"></i></span> Video</a>
+				<a href="https://www.youtube.com/watch?v=WvBGErdEzxA" class="nav-link nav-takeorders"><span class='icon-field'><i class="fas fa-film"></i></span> Video</a>
 				</li>
 				 <li class="nav-item">
                 <a class="nav-link " href="ajax.php?action=logout"><i class="fa fa-power-off"></i> Logout</a>
