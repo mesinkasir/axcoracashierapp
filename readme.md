@@ -12,6 +12,8 @@ Test drive demo [https://axcora.my.id/axcoracashier/free](https://axcora.my.id/a
 
 Play Video Demo : [https://www.youtube.com/watch?v=WvBGErdEzxA](https://www.youtube.com/watch?v=WvBGErdEzxA)
 
+<a href="https://www.buymeacoffee.com/axcora"><img width="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIA9HMwkK8kr7uRwVNxnhXsLQsJHxQQYVSzqCAaK58OpJOiTlzbIX7eEwS_VpJ3oEG-xrmVEl2WKqGvB_o-KjyBGTbbjFHM_bN2Jce9g3FTnt2ZJViwcvB9DHPOKPEMCl7jTQRVWKPw_ETloH7_CK8Xr09SSNNx22xnfGjViwdEsGtR-yGrLmr-JUGHA/s1090/bmc-button.png"/></a>
+
 -----------------------------------
 
 ![free cashier point of sale apps download source code full](https://1.bp.blogspot.com/-hiDdY27VP4g/YBGYNUZgqxI/AAAAAAAAJ84/XXA2lzzWU8EIs8k3a1_EoGj1UBg1JaPFACLcBGAsYHQ/s16000/free%2Bdownload%2Bopen%2Bsource%2Bcode%2Bpos%2Bpoint%2Bofsale%2Baplikasi%2Bkasir%2Btoko%2Brestoran%2Bgratis%2B%25283%2529.png)
@@ -46,9 +48,4 @@ Play Video Demo : [https://www.youtube.com/watch?v=WvBGErdEzxA](https://www.yout
 
 ### Buy me a coffee ☕️ ❤️  ✌🏻 
 
-with moneygram or western union
-
-+ BANK CENTRAL ASIA
-+ ACCOUNT NO : 0181884109
-+ ACCOUNT NAME : SUCI CHANIFAH
-+ IBAN/SWIFT CODE : CENAIDJA
+<a href="https://www.buymeacoffee.com/axcora"><img width="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIA9HMwkK8kr7uRwVNxnhXsLQsJHxQQYVSzqCAaK58OpJOiTlzbIX7eEwS_VpJ3oEG-xrmVEl2WKqGvB_o-KjyBGTbbjFHM_bN2Jce9g3FTnt2ZJViwcvB9DHPOKPEMCl7jTQRVWKPw_ETloH7_CK8Xr09SSNNx22xnfGjViwdEsGtR-yGrLmr-JUGHA/s1090/bmc-button.png"/></a>
